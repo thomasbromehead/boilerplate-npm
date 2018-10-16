@@ -1,6 +1,7 @@
 {
 	"author": "Thomas Bromehead",
 	"name": "fcc-learn-npm-package-json",
+	"version":"1.2",
 	"description": "Just a random description",
 	"keywords": ["freecodecamp","other","keywords"],
 	"dependencies": {
