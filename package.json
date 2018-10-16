@@ -1,6 +1,8 @@
 {
 	"author": "Thomas Bromehead",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Just a random description",
+	"keywords": ["freecodecamp","other","keywords"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
